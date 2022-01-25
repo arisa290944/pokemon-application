@@ -1,0 +1,18 @@
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\Pokemon Application.exe
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\Pokemon Application.deps.json
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\Pokemon Application.runtimeconfig.json
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\Pokemon Application.dll
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\ref\Pokemon Application.dll
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\bin\Debug\net6.0-windows\Pokemon Application.pdb
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.csproj.AssemblyReference.cache
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon_Application.Form1.resources
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.csproj.GenerateResource.cache
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.AssemblyInfoInputs.cache
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.AssemblyInfo.cs
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.csproj.CoreCompileInputs.cache
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.dll
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\ref\Pokemon Application.dll
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.pdb
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon Application.genruntimeconfig.cache
+C:\Users\arisa\Desktop\Pokemon-Application\pokemon-application\Pokemon Application\Pokemon Application\obj\Debug\net6.0-windows\Pokemon_Application.Properties.Resources.resources
